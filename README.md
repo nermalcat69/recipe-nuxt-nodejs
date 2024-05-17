@@ -2,7 +2,7 @@
 
 ![Header Image](https://storage-prg1.zerops.io/4gn35-objectstorage0/nuxt-zerops)
 
-A Node.js Nuxt app deployment example for [Zerops](https://zerops.io) - a developer first cloud platform.
+A Node.js Nuxt app deployment example for [Zerops](http://zerops.io) - a developer first cloud platform.
 
 ## Deploy to Zerops
 
