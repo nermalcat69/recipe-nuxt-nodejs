@@ -1,6 +1,6 @@
 # Zerops x Nuxt - Nodejs
 
-<img src="https://storage-prg1.zerops.io/4gn35-objectstorage0/nuxt-zerops.webp" alt="Header Image">
+![Header Image](https://storage-prg1.zerops.io/4gn35-objectstorage0/nuxtjs-zerops)
 
 A Node.js Nuxt app deployment example for [Zerops](https://zerops.io) - a developer first cloud platform.
 
