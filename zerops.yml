@@ -1,0 +1,12 @@
+zerops:
+  - setup: nuxtnodejs
+    build:
+      base: nodejs@20
+      buildCommands:
+        - pnpm i
+        - pnpm run build
+      deploy:
+        - .output
+        - package.json
+    run:
+      start: npm start
